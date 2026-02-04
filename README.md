@@ -23,3 +23,18 @@ The implementation focuses on qualitative analysis and algorithmic understanding
 This is **not the official implementation**.  
 All credits for the original method belong to the authors.
 
+## Qualitative Results
+
+Below are qualitative results from different phases of the HiEUM pipeline:
+
+### Phase 3 – Foreground Extraction
+![Phase 3](figures/phase3_foreground_extraction.png)
+
+### Phase 4 – Sparse Motion Map
+![Phase 4](figures/phase4_sparse_map.png)
+
+### Phase 6 – Refinement
+![Phase 6](figures/phase6_refinement.png)
+
+### Phase 9 – Final Moving Object Detection
+![Phase 9](figures/phase9_final_detection.png)
